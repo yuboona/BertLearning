@@ -2,7 +2,7 @@
 
 ## intro
 
-[RNN](./RNN)->LSTM->transfomer->bert
+[RNN](./RNN)->LSTM->[GRU](./GRU)->transfomer->bert
 
 ## Brief of BERT
 
